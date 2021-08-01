@@ -594,4 +594,40 @@ footer span a:hover{
     margin: 0%;
   }
   
+.contact .contact-content .info .head{
+  font-size: 20px;
+  font-weight: 400;
+}
+.contact .contact-content .info .sub-title{
+  font-size: 15px;
+}
+.contact .right form .fields{
+  display: flex;
+  flex-direction: column;
+}
+.contact .right form .name{
+margin-right: 0px;
+}
+.contact .right form .email{
+  margin-left: 0px;
+  }
+.contact .right form .field,
+.contact .right form .fields .field{
+  height: 45px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.contact .right form .button{
+  height: 37px;
+  width: 150px;
+}
+.contact .right form .button button{
+  font-size: 18px;
+}
+
+
+  footer{
+    font-size: 10px;
+  }
+  
 }
