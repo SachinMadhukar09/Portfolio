@@ -12,5 +12,14 @@ $(document).ready(function(){
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
 
-    })
+    });
+
+    // typing animation script
+    
+    var typed = new Typed("typing",{
+        strings:["Developer","Web Developer","Web Designer","Freelancer"],
+        typeSpeed:100,
+        backSpeed:60,
+        loop:true
+    });
 });
