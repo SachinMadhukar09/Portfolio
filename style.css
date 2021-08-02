@@ -626,14 +626,14 @@ footer span a:hover{
   }
 
   .contact .contact-content{
-    width: 400px;
+    /* width: 400px; */
   padding-left: 10px;
     align-items: center;
   }
   
 .contact .contact-content .left .icons{
-  margin-top: 30px ;
-  padding-left: 60px;
+  /* margin-top: 30px ; */
+  /* padding-left: 60px; */
   /* display: flex; */
   /* justify-content: center; */
   }
