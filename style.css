@@ -351,13 +351,13 @@ section .title::after {
   width: 90%;
 }
 .skills-content .javascript::before{
-  width: 60%;
+  width: 70%;
 }
 .skills-content .angular::before{
   width: 70%;
 }
 .skills-content .react::before{
-  width: 60%;
+  width: 70%;
 }
 .skills-content .json::before{
   width: 70%;
